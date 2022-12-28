@@ -5,3 +5,9 @@ https://radio.eyecay.xyz:8000/radio.mp3
 https://ice24.securenetsystems.net/1061KISSFM
 #EXTINF:-1 tvg-id="" tvg-name="Big Fish 95.5" tvg-logo="https://raw.githubusercontent.com/Aleksa1302/Cayman_Islands_Online_Radio/main/m3u/Logos/BigFish.jpg" group-title="Cayman Islands",Big Fish 95.5
 https://ice41.securenetsystems.net/BIGFISH
+#EXTINF:-1 tvg-id="" tvg-name="Cayrock FM" tvg-logo="https://raw.githubusercontent.com/Aleksa1302/Cayman_Islands_Online_Radio/main/m3u/Logos/cayrock.jpg" group-title="Cayman Islands",Cayrock FM
+https://ice24.securenetsystems.net/CAYROCK?DIST=TuneIn&TGT=TuneIn&maxServers=2&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY3MjI1MjEwNywiaXNzIjoidGlzcnYifQ.6WpBxCGm2eMU7YgE4-n3cJmFgRSqNGNs9ao_HRGa3KE
+#EXTINF:-1 tvg-id="" tvg-name="GOLD Cayman" tvg-logo="https://raw.githubusercontent.com/Aleksa1302/Cayman_Islands_Online_Radio/main/m3u/Logos/goldcayman.jpg" group-title="Cayman Islands",GOLD Cayman
+https://gold-hurleysmedia.radioca.st/stream
+#EXTINF:-1 tvg-id="" tvg-name="Hot 104.1 FM" tvg-logo="https://raw.githubusercontent.com/Aleksa1302/Cayman_Islands_Online_Radio/main/m3u/Logos/Hot%20104.1%20FM.jpg" group-title="Cayman Islands",Hot 104.1 FM
+https://ice23.securenetsystems.net/HOT1041?DIST=TuneIn&TGT=TuneIn&maxServers=2&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY3MjI1MTk5OCwiaXNzIjoidGlzcnYifQ.se4wy_nuHO9qyvUPB0Q8876ToxyQUvJS3pHQQFdNF_I
